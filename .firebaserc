@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "platzistoreangular": {
+      "hosting": {
+        "platzi-store": [
+          "platzistoreangular"
+        ]
+      }
+    }
+  }
+}
