@@ -1,4 +1,6 @@
+import { isNgTemplate } from '@angular/compiler';
 import { Component } from '@angular/core';
+
 
 @Component({
   selector: 'app-root',
@@ -6,5 +8,4 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'platzi-store';
 }
